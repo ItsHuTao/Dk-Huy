@@ -1,6 +1,7 @@
 //bài 1
 const arr1 = [1, 'a', 5, '2', true];
 const arr2 = [];
+//
 
 arr1.forEach((item)=>{
     if (typeof item === 'number'){
